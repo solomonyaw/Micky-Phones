@@ -1,0 +1,402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-06 06:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: views/html-modal-new-customer.php:13 views/main-page.php:28
+msgid "New customer"
+msgstr ""
+
+#: views/html-modal-new-customer.php:20 views/html-edit-address.php:28
+msgid "First name"
+msgstr ""
+
+#: views/html-modal-new-customer.php:27 views/html-edit-address.php:34
+msgid "Last name"
+msgstr ""
+
+#: views/html-modal-new-customer.php:36
+msgid "Email"
+msgstr ""
+
+#: views/html-modal-new-customer.php:43
+msgid "Billing address"
+msgstr ""
+
+#: views/html-modal-new-customer.php:49 views/html-edit-address.php:43
+msgid "Company"
+msgstr ""
+
+#: views/html-modal-new-customer.php:56 views/html-edit-address.php:49
+msgid "Phone"
+msgstr ""
+
+#: views/html-modal-new-customer.php:64 views/html-edit-address.php:57
+msgid "Address 1"
+msgstr ""
+
+#: views/html-modal-new-customer.php:71 views/html-edit-address.php:64
+msgid "Address 2"
+msgstr ""
+
+#: views/html-modal-new-customer.php:80 views/html-edit-address.php:73
+msgid "City"
+msgstr ""
+
+#: views/html-modal-new-customer.php:86 views/html-edit-address.php:79
+msgid "Postcode"
+msgstr ""
+
+#: views/html-modal-new-customer.php:95 views/html-edit-address.php:88
+msgid "Country"
+msgstr ""
+
+#: views/html-modal-new-customer.php:105 views/html-edit-address.php:98
+msgid "State/County"
+msgstr ""
+
+#: views/html-modal-new-customer.php:113 views/html-edit-shipping-modal.php:25
+#: views/html-edit-tax-modal.php:54 views/html-edit-discount-modal.php:38
+#: views/html-modal-custom-item.php:45 views/html-edit-address.php:107
+msgid "Cancel"
+msgstr ""
+
+#: views/html-modal-new-customer.php:115
+msgid "Save customer"
+msgstr ""
+
+#: views/html-order-footer.php:10
+msgid "Customer provided note"
+msgstr ""
+
+#: views/html-order-footer.php:11 views/html-order-footer.php:16
+msgid "Add a note"
+msgstr ""
+
+#: views/html-order-footer.php:15
+msgid "Private note"
+msgstr ""
+
+#: views/html-order-footer.php:25
+msgid "Subtotal"
+msgstr ""
+
+#: views/html-order-footer.php:36 views/html-edit-coupon-modal.php:12
+msgid "Add coupon"
+msgstr ""
+
+#: views/html-order-footer.php:43 views/html-edit-discount-modal.php:13
+msgid "Add discount"
+msgstr ""
+
+#: views/html-order-footer.php:55
+msgid "Add shipping"
+msgstr ""
+
+#: views/html-order-footer.php:64
+msgid "Recalculate"
+msgstr ""
+
+#: views/html-order-footer.php:69
+msgid "Taxes"
+msgstr ""
+
+#: views/html-order-footer.php:80
+msgid "Order Total"
+msgstr ""
+
+#: views/html-order-footer.php:91
+msgid "Test"
+msgstr ""
+
+#: views/html-order-footer.php:99
+msgid "Create order"
+msgstr ""
+
+#: views/html-order-footer.php:101
+msgid "View order"
+msgstr ""
+
+#: views/html-order-footer.php:102
+msgid "Send invoice"
+msgstr ""
+
+#: views/html-order-footer.php:103
+msgid "Pay order"
+msgstr ""
+
+#: views/html-order-footer.php:104
+msgid "Create new order"
+msgstr ""
+
+#: views/html-order-item.php:35
+msgid "SKU:"
+msgstr ""
+
+#: views/html-order-item.php:39
+msgid "Variation ID:"
+msgstr ""
+
+#: views/html-order-item.php:43
+msgid "No longer exists"
+msgstr ""
+
+#: views/html-order-item.php:86
+msgid "Delete item"
+msgstr ""
+
+#: views/html-customer-details.php:9
+msgid "Billing Details"
+msgstr ""
+
+#: views/html-customer-details.php:28
+msgid "No billing address was provided."
+msgstr ""
+
+#: views/html-customer-details.php:28
+msgid "Same as shipping address."
+msgstr ""
+
+#: views/html-customer-details.php:38
+msgid "Ship to a different address?"
+msgstr ""
+
+#: views/html-customer-details.php:44
+msgid "Shipping Details"
+msgstr ""
+
+#: views/html-customer-details.php:63
+msgid "No shipping address was provided."
+msgstr ""
+
+#: views/html-edit-shipping-modal.php:12
+msgid "Shipping method"
+msgstr ""
+
+#: views/html-edit-shipping-modal.php:18
+#: classes/class-wc-phone-orders-main.php:113
+msgid "No shipping methods available"
+msgstr ""
+
+#: views/html-edit-shipping-modal.php:28 views/html-edit-discount-modal.php:40
+msgid "Remove"
+msgstr ""
+
+#: views/html-edit-shipping-modal.php:30
+msgid "Save"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:12
+msgid "Tax"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:20
+msgid "Rate name"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:21
+msgid "Tax class"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:22
+msgid "Rate code"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:23
+msgid "Rate %"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:45
+msgid "Or, enter tax rate ID:"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:46
+msgid "Optional"
+msgstr ""
+
+#: views/html-edit-tax-modal.php:55
+msgid "Add"
+msgstr ""
+
+#: views/html-edit-discount-modal.php:42 views/html-edit-coupon-modal.php:21
+msgid "Apply"
+msgstr ""
+
+#: views/html-modal-custom-item.php:13 views/main-page.php:50
+msgid "Add custom item"
+msgstr ""
+
+#: views/html-modal-custom-item.php:20
+msgid "Line item name"
+msgstr ""
+
+#: views/html-modal-custom-item.php:26
+msgid "Price per item"
+msgstr ""
+
+#: views/html-modal-custom-item.php:32
+msgid "Quantity"
+msgstr ""
+
+#: views/html-modal-custom-item.php:47
+msgid "Save line item"
+msgstr ""
+
+#: views/main-page.php:8
+msgid "Make new order"
+msgstr ""
+
+#: views/main-page.php:24
+msgid "Find or create a customer"
+msgstr ""
+
+#: views/main-page.php:54
+msgid "Order details"
+msgstr ""
+
+#: views/main-page.php:61
+msgid "Find products..."
+msgstr ""
+
+#: views/main-page.php:68
+msgid "Item"
+msgstr ""
+
+#: views/main-page.php:69
+msgid "Cost"
+msgstr ""
+
+#: views/main-page.php:70
+msgid "Qty"
+msgstr ""
+
+#: views/main-page.php:71
+msgid "Total"
+msgstr ""
+
+#: views/html-edit-address.php:13
+msgid "Edit address"
+msgstr ""
+
+#: views/html-edit-address.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: views/html-edit-address.php:109
+msgid "Save address"
+msgstr ""
+
+#: views/html-settings-box.php:11
+msgid "Toggle panel: Settings"
+msgstr ""
+
+#: views/html-settings-box.php:15
+msgid "Settings"
+msgstr ""
+
+#: views/html-settings-box.php:21
+msgid "Automatically update Total and Taxes"
+msgstr ""
+
+#: views/html-settings-box.php:24
+msgid "Set order status"
+msgstr ""
+
+#: classes/class-wc-phone-shipping-method.php:13
+#: classes/class-wc-phone-shipping-method.php:41
+msgid "Free Shipping [Phone Orders]"
+msgstr ""
+
+#: classes/class-wc-phone-shipping-method.php:14
+msgid "Free Shipping in admin area only, for Phone Orders "
+msgstr ""
+
+#: classes/class-wc-phone-shipping-method.php:38
+msgid "Title"
+msgstr ""
+
+#: classes/class-wc-phone-shipping-method.php:40
+msgid "Title to be display on site"
+msgstr ""
+
+#: classes/class-wc-phone-orders-ajax.php:272
+#, php-format
+msgid "Order #%s created"
+msgstr ""
+
+#: classes/class-wc-phone-orders-ajax.php:284
+msgid "Order not found"
+msgstr ""
+
+#: classes/class-wc-phone-orders-ajax.php:295
+msgid "A valid email address is required"
+msgstr ""
+
+#: classes/class-wc-phone-orders-ajax.php:301
+msgid "There was an error sending the email"
+msgstr ""
+
+#: classes/class-wc-phone-orders-ajax.php:307
+#, php-format
+msgid "Invoice for order #%s has been sent to %s"
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:36
+#: classes/class-wc-phone-orders-main.php:37
+msgid "Make New Order"
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:108
+msgid "Coupon "
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:109
+msgid "Remove "
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:110
+msgid "Field \"Name\" is required"
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:111
+msgid "Discount "
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:112
+msgid "Add discount "
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:114
+msgid "Add shipping "
+msgstr ""
+
+#: classes/class-wc-phone-orders-main.php:115
+msgid "Tax already added "
+msgstr ""
+
+#. Name of the plugin
+msgid "Phone Orders for Woocommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid "Create manual/phone orders in Woocommerce quickly"
+msgstr ""
+
+#. Author of the plugin
+msgid "AlgolPlus"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://algolplus.com/"
+msgstr ""
