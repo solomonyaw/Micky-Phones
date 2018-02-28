@@ -7,8 +7,8 @@ it to suite your needs.
 
 # Snapshots
 ![alt text](snapshots/micky.PNG "Description goes here")
-![alt text](snapshots/micky1.PNG"Description goes here")
-![alt text](snapshots/micky2.PNG"Description goes here")
-![alt text](snapshots/micky3.PNG"Description goes here")
-![alt text](snapshots/micky4.PNG"Description goes here")
+![alt text](snapshots/micky1.PNG "Description goes here")
+![alt text](snapshots/micky2.PNG "Description goes here")
+![alt text](snapshots/micky3.PNG "Description goes here")
+![alt text](snapshots/micky4.PNG "Description goes here")
 
